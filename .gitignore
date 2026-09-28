@@ -1,0 +1,5 @@
+.venv/\n__pycache__/\n*.py[cod]\n.env\n.pytest_cache/\n
+.env
+__pycache__/
+*.py[cod]
+.venv/
